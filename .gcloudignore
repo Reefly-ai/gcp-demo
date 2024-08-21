@@ -1,0 +1,7 @@
+# This file specifies files that are NOT to be uploaded to Google Cloud Platform
+# See `gcloud topic gcloudignore` for more information.
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+env/
