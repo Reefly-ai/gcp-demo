@@ -1,2 +1,4 @@
 def hello_world(request):
-    return "Hello, World!"
+    return {
+        "data": "Hello, YC!"
+    }
